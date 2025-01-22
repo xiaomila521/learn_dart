@@ -11,7 +11,7 @@ void main(List<String> args) {
 
   // 数值转换
 
-  int a = int.parse("12312");
-  String b = 21321.toString();
-  double c = double.parse("123.123");
+  // int a = int.parse("12312");
+  // String b = 21321.toString();
+  // double c = double.parse("123.123");
 }
